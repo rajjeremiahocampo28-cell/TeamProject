@@ -1,3 +1,3 @@
 Name: Ghuan
 Role: Backend Developer
-Fun Fact: dfhfgh
+Fun Fact: I like working with Git!
